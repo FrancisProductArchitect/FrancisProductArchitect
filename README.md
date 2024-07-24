@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Experience in Embedded Software Engineering with a history of working in the information technology and services industry. Skilled in Embedded Software, Linux Device Drivers, Linux BSP, Qt, C/CPP, ARM, 8/16/32 bit TI, NXP, Dialog(RENESAS), STM32, SiLabs, Microchip Microcontroller & Microprocessors, ESP8266, ESP32, IoT cloud, Gateways, mqtt, IBM Bluemix, IBM Watson, Azure, AWS, HTML, CSS, PHP, JAVA SCRIPT, uBidot, Wireless, BLE, BT, WiFi, 6LowPAN & SigFox. Wireless cellular modules 2G SIM900, Telit, Sagemcom, Sierra Wireless, Quectel MC60, M96, SIMCOM 4G LTE.
+
 <!---
 FrancisProductArchitect/FrancisProductArchitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
